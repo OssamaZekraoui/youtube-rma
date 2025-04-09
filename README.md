@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=ArmPzvHTcfQ&ab_channel=CodeWithAntonio 44 min
+https://www.youtube.com/watch?v=ArmPzvHTcfQ&ab_channel=CodeWithAntonio 55 min
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
